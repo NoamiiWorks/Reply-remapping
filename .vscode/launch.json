@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "RuneLite (dev)",
+      "request": "launch",
+      "mainClass": "com.replyrebind.ReplyrebindPluginTest",
+      "vmArgs": "-ea",
+      "args": "--developer-mode"
+    }
+  ]
+}
